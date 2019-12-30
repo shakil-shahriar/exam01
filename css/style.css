@@ -1,0 +1,101 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.container{
+    
+padding: 70px 50px;
+}
+
+body{
+    background: url(../img/cover.png);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+.detail{
+    width: 60%;
+    float: left;
+}
+
+.detail h2{
+    color: white;
+    text-transform: uppercase;
+    font-size: 28px;
+    padding-bottom: 20px;
+}
+
+.detail p{
+
+    color: white;
+
+    padding-bottom: 16px;
+}
+
+.detail ul{
+    color: white;
+}
+
+.detail ul li{
+
+    text-decoration: none;
+
+    display: block;
+}
+
+.register{
+
+    background-color: darkcyan;
+
+    width: 40%;
+
+    float: left;
+
+    text-align: center;
+
+    padding-bottom: 45px;
+}
+
+.register h2{
+
+    color: white;
+
+    text-transform: uppercase;
+
+    padding-top: 30px;
+
+    padding-bottom: 12px;
+}
+
+.register p{
+
+        color: white;
+
+        padding: 0px 8px;
+
+        padding-bottom: 35px;
+
+        letter-spacing: 1px;
+}
+
+.register form{
+}
+
+.form-control{
+
+    display: inline-block;
+
+    display: block;
+
+    margin: 10px auto;
+
+}
+
+.button{
+    box-shadow: none;
+    text-transform: uppercase;
+    padding: 4px 20px;
+    letter-spacing: 2px;
+}
+
